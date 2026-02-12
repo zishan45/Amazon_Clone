@@ -1,5 +1,6 @@
 # Amazon_Clone
 # Frontend Project
+A fully responsive Amazon Clone built using modern web technologies, featuring product listings, shopping cart functionality, and a user-friendly interface that replicates the core design and experience of Amazon.
 <br>
 🛒 Amazon Clone <br>
 A responsive Amazon Clone built using modern web technologies, replicating the core UI and shopping experience of Amazon. <br>
